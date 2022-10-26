@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 
 with open("dados.json") as f:
     data = json.load(f)
-# print(df)
 
+# print(df)
 print(data)
 
 for item in data:
