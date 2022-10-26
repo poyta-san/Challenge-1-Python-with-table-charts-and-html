@@ -1,0 +1,32 @@
+[
+  {
+    "mes": "Jan/22",
+    "ativos": 600,
+    "apostas": 300000,
+    "ganhos": 290000
+  },
+  {
+    "mes": "Fev/22",
+    "ativos": 700,
+    "apostas": 400000,
+    "ganhos": 390000
+  },
+  {
+    "mes": "Mar/22",
+    "ativos": 500,
+    "apostas": 200000,
+    "ganhos": 290000
+  },
+  {
+    "mes": "Abr/22",
+    "ativos": 800,
+    "apostas": 500000,
+    "ganhos": 450000
+  },
+  {
+    "mes": "Mai/22",
+    "ativos": 1000,
+    "apostas": 1000000,
+    "ganhos": 999000
+  }
+]
