@@ -13,7 +13,7 @@ df['GGR'] = df['apostas'] - df['ganhos']
 df['RTP(%)'] = (df['ganhos'] / df['apostas']) * 100
 # print(df)
 
-# Converte o dataframe para impressão da tabela em HTML
+# Converte o dataframe para impressão da tabela em HTML.
 html1 = df.to_html()
 
 app = Flask(__name__)
